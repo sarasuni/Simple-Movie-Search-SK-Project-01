@@ -23,3 +23,6 @@ Website Screen Shots:
 Website Contents:
 1. Header consists of Title of the project, Search box and Button.
 2. Search box provides an option to search for a particular Movie and get additional details regarding Movie.
+
+Live Deployed Page Link:
+https://sarasuni.github.io/Simple-Movie-Search-SK-Project-01/
