@@ -2,7 +2,7 @@ Name of the Project:
 Movie-Search
 
 Description:
-This is a web application, where we can find information about specific Movie and store your favorite Movie in "Favorites" section to watch later.
+This is a web application, where we can find information about specific Movie.
 
 Motivation:
 The motivation behind this project is to learn and demonstrate HTML, CSS and Javascript coding skills. As we all are movie lovers, we wanted to build a minimalistic web application that simply lists all the latest movies and displays informtion about particular movie.
